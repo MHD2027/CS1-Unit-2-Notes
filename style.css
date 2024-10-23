@@ -1,1 +1,14 @@
+.flex-item {    
+    width: 100px;
+    height: 100px;
+    background-color: lightpink;
+    margin: 4px;
+}
 
+.flex-container {
+    display: flex;
+    border: 2px solid cornflowerblue;
+
+    justify-content: space-around;
+
+}
